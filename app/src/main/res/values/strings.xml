@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aipin</string>
+
+    <string-array name="message_tittle">
+        <item>聊天</item>
+        <item>好友</item>
+        <item>群聊</item>
+    </string-array>
+</resources>
